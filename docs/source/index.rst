@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+##############################################
+Selamat Datang di IndoRoleplay !!
+##############################################
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This documentation covers the official rules, lore, and tutorials of the `IndoRoleplay`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Below are some important links to our various official websites that will be referenced throughout this documentation. You will also find below an appendix of abbreviation utilized throughout the guides and rules. The lore of the server may be used in character.
 
-.. note::
+**Links**
 
-   This project is under active development.
+* `Main Site`_
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+.. _IndoRoleplay: https://indoroleplay.net/
