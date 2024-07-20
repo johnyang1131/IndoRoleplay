@@ -11,3 +11,4 @@ Below are some important links to our various official websites that will be ref
 * `Main Site`_
 
 .. _IndoRoleplay: https://indoroleplay.net/
+.. _Main Site: https://indoroleplay.net/
