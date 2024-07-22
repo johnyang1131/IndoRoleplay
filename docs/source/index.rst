@@ -12,3 +12,9 @@ Below are some important links to our various official websites that will be ref
 
 .. _IndoRoleplay: https://indoroleplay.net/
 .. _Main Site: https://indoroleplay.net/
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Rules
+
