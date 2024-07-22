@@ -105,7 +105,6 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 html_theme_options = {
     'collapse_navigation': False,
     'display_version': False,
-    'canonical_url': 'https://docs.owlgaming.net/',
     'sticky_navigation': True,
     'logo_only': True
 }
