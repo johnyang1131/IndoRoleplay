@@ -5,9 +5,6 @@ General
 .. _UAT Contact: https://forums.indoroleplay.net/forms/10-upper-administration-contact-ooc/
 .. _Support Center: https://indoroleplay.net/support/
 
-.. note::
-    These rules apply across the entirety of IndoRoleplay.
-
 *******
 Conduct
 *******
