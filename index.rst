@@ -29,7 +29,6 @@ Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yan
     :maxdepth: 2
     :caption: Tutorials
 
-    tutorials/troubleshooting_joining_v
     tutorials/beginner_tutorial_v
         
 .. toctree::
