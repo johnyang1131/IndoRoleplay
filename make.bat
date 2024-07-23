@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=.build
-set SPHINXPROJ=OwlGamingRules
+set SPHINXPROJ=IndoRoleplayRules
 
 if "%1" == "" goto help
 
