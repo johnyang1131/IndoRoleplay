@@ -1,31 +1,21 @@
 ##############################################
-Welcome to OwlGaming's Official Documentation!
+Selamat Datang Di IndoRoleplay
 ##############################################
 
-This documentation covers the official rules, lore, and tutorials of the `OwlGaming Community`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
+dokumen ini berisikan rules & tutorial `IndoRoleplay`_. dokumen ini menggunakan Markdown dan Sphinx. 
 
-Below are some important links to our various official websites that will be referenced throughout this documentation. You will also find below an appendix of abbreviation utilized throughout the guides and rules. The lore of the server may be used in character.
+Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yang akan dirujuk di seluruh dokumentasi ini. Anda juga akan menemukan lampiran singkatan yang digunakan di seluruh panduan dan aturan dapat digunakan dalam karakter.
 
 **Links**
 
 * `Main Site`_
 * `Forums`_
-* `Wiki`_
-* `Gitlab`_
-* `Bugtracker`_
-* `Discord`_
-* `LSPD`_
-* `LSCFD`_
 
-.. _OwlGaming Community: https://owlgaming.net/
-.. _Forums: https://forums.owlgaming.net/
-.. _Gitlab: https://gitlab.com/OwlGamingCommunity
-.. _Main Site: https://owlgaming.net/
-.. _Wiki: https://wiki.owlgaming.net
-.. _Bugtracker: https://bugs.owlgaming.net/my_view_page.php 
-.. _Discord: https://discord.gg/whf5RFn
-.. _LSPD: https://leo.owlgaming.net/
-.. _LSCFD: https://dps.owlgaming.net/
+
+.. _IndoRoleplay: https://indoroleplay.net/
+.. _Forums: https://forums.indoroleplay.net/
+.. _Main Site: https://indoroleplay.net/
+
 
 .. toctree::
     :maxdepth: 2
