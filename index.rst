@@ -22,7 +22,6 @@ Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yan
     :caption: Rules
 
     rules/general_rules   
-    rules/v_rules
     rules/mta_rules
 
 .. toctree::
