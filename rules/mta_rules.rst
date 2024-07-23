@@ -1,5 +1,5 @@
 ##################
-Multi Theft Auto
+Rules Roleplay
 ##################
 
 .. note::
