@@ -46,7 +46,7 @@ Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yan
     :caption: Lore
 
 +--------------+---------------------------+
-| Abbreviation | Description               |
+| Singkatan    | Deksripsi                 |
 +==============+===========================+
 | IC           | In Character              |
 +--------------+---------------------------+
@@ -56,19 +56,17 @@ Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yan
 +--------------+---------------------------+
 | CK           | Character Kill            |
 +--------------+---------------------------+
-| UAT          | Upper Administration Team |
+| DM           | Deathmatch                |
 +--------------+---------------------------+
-| GAT          | Game Administration Team  |
+| RK           | Revenge Kill              |
 +--------------+---------------------------+
-| FT           | Faction Team              |
-+--------------+---------------------------+
-| PC           | Public Contact            |
+| KOS          | Killing On Sight          |
 +--------------+---------------------------+
 | UCP          | User Control Panel        |
 +--------------+---------------------------+
 | RP           | Role Play                 |
 +--------------+---------------------------+
-| PG           | Powergame                 |
+| PG           | Powergaming               |
 +--------------+---------------------------+
-| MG           | Metagame                  |
+| MG           | Metagaming                |
 +--------------+---------------------------+
