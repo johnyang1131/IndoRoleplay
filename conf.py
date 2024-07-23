@@ -104,7 +104,7 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'collapse_navigation': False,
     'display_version': False,
-     'canonical_url': 'https://docs.owlgaming.net/',
+     'canonical_url': 'https://docs.indoroleplay.net/',
     'sticky_navigation': True,
     'logo_only': True
 }
