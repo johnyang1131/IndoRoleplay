@@ -3,21 +3,35 @@ Multi Theft Auto
 ##################
 
 .. note::
-    Please remember when dealing with roleplay as a whole, it is a complex subject. One player's interpretation of a situation may be different from another player's. If you suspect powergaming, metagaming, or some other rule violation, an attempt to clarify the situation is always encouraged. Please check out our official roleplay guides and tutorials so you as a player understand the quality and standards that are expected to avoid accidentally breaking rules.
+    Harap diingat bahwa ketika berurusan dengan roleplay secara keseluruhan, ini adalah subjek yang kompleks. Interpretasi satu pemain terhadap suatu situasi mungkin berbeda dari pemain lainnya. Jika Anda mencurigai adanya powergaming, metagaming, atau pelanggaran aturan lainnya, upaya untuk mengklarifikasi situasi selalu dianjurkan. Silakan periksa panduan dan tutorial roleplay resmi kami sehingga Anda sebagai pemain memahami kualitas dan standar yang diharapkan untuk menghindari secara tidak sengaja melanggar aturan.
 
-.. _UA: https://forums.owlgaming.net/forms/10-upper-administration-contact-ooc/
-.. _bug tracker: https://bugs.owlgaming.net/
-.. _UAT Contact: https://forums.owlgaming.net/forms/10-upper-administration-contact-ooc/
-.. _Support Center: https://owlgaming.net/support/
-.. _Upper Administration Team: https://forums.owlgaming.net/forms/10-upper-administration-contact-ooc/
+.. _UA: https://forums.IndoRoleplay.net/forms/10-upper-administration-contact-ooc/
+.. _bug tracker: https://bugs.IndoRoleplay.net/
+.. _UAT Contact: https://forums.IndoRoleplay.net/forms/10-upper-administration-contact-ooc/
+.. _Support Center: https://IndoRoleplay.net/support/
+.. _Upper Administration Team: https://forums.IndoRoleplay.net/forms/10-upper-administration-contact-ooc/
 
 
 ***************
 Always Roleplay
 ***************
-Users of OwlGaming playing in game must remain in character at all times unless they are granted permission to go out of character by an administrator.
+User IndoRoleplay yang bermain dalam game harus tetap dalam karakter setiap saat, kecuali mereka diberikan izin untuk keluar dari karakter oleh seorang administrator.
 
-*"Roleplay now,* `report <https://owlgaming.net/support/>`_ *later."* is a phrase commonly used to describe this mindset.
+*"Roleplay dahulu,* `laporkan <https://owlgaming.net/support/>`_ *."*.
+
+**********
+Mixing
+**********
+Menggunakan informasi atau elemen dari OOC (Out of Character) dalam konteks IC (In Character) atau sebaliknya, sehingga mengaburkan batas antara dunia nyata dan dunia permainan.
+
+| **Example 1:** 
+| •	Seorang pemain mengundang karakter lain untuk bergabung dalam grup chat OOC saat berinteraksi secara IC.
+
+| **Example 2:** 
+| •	Seorang pemain berbicara tentang kejadian OOC di dunia nyata, seperti berita atau selebriti, dalam percakapan IC.
+
+| **Example 2:** 
+| •	Seorang pemain menggunakan emotikon atau singkatan internet (seperti "GBLK" atau ":)") dalam dialog IC.
 
 **********
 Metagaming
