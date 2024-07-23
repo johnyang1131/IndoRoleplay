@@ -4,7 +4,7 @@ Selamat Datang Di IndoRoleplay
 
 dokumen ini berisikan rules & tutorial `IndoRoleplay`_. dokumen ini menggunakan Markdown dan Sphinx. 
 
-Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yang akan dirujuk di seluruh dokumentasi ini. Anda juga akan menemukan lampiran singkatan yang digunakan di seluruh panduan dan aturan dapat digunakan dalam karakter.
+Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yang akan dirujuk di seluruh dokumentasi ini. Anda juga akan menemukan lampiran singkatan yang digunakan di seluruh panduan dan aturan dapat digunakan dalam karakter.aa
 
 **Links**
 
