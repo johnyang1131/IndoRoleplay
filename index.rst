@@ -24,25 +24,6 @@ Di bawah ini adalah beberapa tautan penting ke berbagai situs web resmi kami yan
     rules/general_rules   
     rules/mta_rules
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Tutorials
-
-    tutorials/beginner_tutorial_v
-        
-.. toctree::
-    :maxdepth: 2
-    :caption: Lore
-
-    lore/v_lore
-        
-.. toctree::
-    :maxdepth: 2
-    :caption: Tutorials
-        
-.. toctree::
-    :maxdepth: 2
-    :caption: Lore
 
 +--------------+---------------------------+
 | Singkatan    | Deksripsi                 |
